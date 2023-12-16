@@ -1,4 +1,4 @@
-# Vector-Search-Database-and-LLM-Mode
+# Vector-Search-Database-and-LLM-Model
 
 Overview
 This project is aimed at creating a production-grade application utilizing natural language processing (NLP) techniques to build a text summarizer and quiz app. The application harnesses the power of a vector search database for efficient querying and incorporates large language models (LLM) for understanding and processing textual data. By following the guidelines and instructions in this README, users will learn how to set up the environment, install necessary packages, process documents, store data in a vector search database, and build interactive NLP applications.
